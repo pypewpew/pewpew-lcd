@@ -12,6 +12,8 @@ display for the screen — which makes it cheap, battery-efficient, and lets you
 see the error messages from your code on the screen,  without having to use any
 special programs to connect to the serial console.
 
+More information about the PewPew family is available at: https://pewpew.rtfd.io
+
 Hardware
 ========
 
