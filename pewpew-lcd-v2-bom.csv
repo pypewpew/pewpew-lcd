@@ -1,0 +1,6 @@
+U1,ATSAMD21E18A-MU,1,mcu
+U2,AP2112K-3.3TRG1,1,ldo
+U3,RH-112,1,display
+"C1,C2",10uF 0805 3V,2,capacitor
+R1,100ohm 0805,1,resistor
+X1,MK12C02,1,switch
