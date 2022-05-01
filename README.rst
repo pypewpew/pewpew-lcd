@@ -1,6 +1,8 @@
 PewPew LCD
 **********
 
+.. image:: pewpew-lcd-v2.jpg
+
 PewPew LCD is a handheld gaming device designed for use in programming
 workshops. Because it runs CircuitPython, you don't have to install anything on
 your computer to program it: you just edit a text file on the USB drive that
