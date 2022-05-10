@@ -47,7 +47,8 @@ to the "USB" position. The bootloader binary needs to be flashed at address 0.
 Once the bootloader is in place, a UF2 file with CircuitPython can be obtained
 from the https://circuitpython.org website, or compiled from source code as per
 CircuitPython's building instructions. Then the file can be copied to the
-device over USB.
+device over USB. The ode for the board definition is available at 
+https://github.com/adafruit/circuitpython/pull/6331
 
 Once the firmware is in place, the menu program and any other programs desired
 can be simply copied onto the device over USB.
