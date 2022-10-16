@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    x="0in"
    y="0in"
@@ -14,8 +7,15 @@
    height="2.6448364in"
    viewBox="0 0 116.72041 190.42801"
    id="svg3579"
-   sodipodi:docname="pewpew-oled-v2-pcb.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   sodipodi:docname="pewpew-lcd-v2-pcb.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,9 +29,9 @@
      inkscape:window-height="480"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="3.8390557"
-     inkscape:cx="-3.2904138"
-     inkscape:cy="130.66774"
+     inkscape:zoom="2.7146223"
+     inkscape:cx="41.810604"
+     inkscape:cy="135.19376"
      inkscape:current-layer="svg3579"
      inkscape:snap-object-midpoints="true"
      showguides="true"
@@ -44,7 +44,9 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -53,7 +55,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
